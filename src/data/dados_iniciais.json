@@ -2,12 +2,7 @@
   "categorias": [
     {
       "titulo": "Adestramento",
-      "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
       "videos": [
         {
           "titulo": "PetLove - Como ensinar seu cachorro a sentar, dar a pata e deitar",
@@ -38,10 +33,6 @@
     {
       "titulo": "Xixi no Lugar Certo",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Tudo Sobre Cachorros - Xixi no lugar certo parte 1",
-        "url": "https://www.youtube.com/watch?v=FY1_AMAdWG0"
-      },
       "videos": [
         {
           "titulo": "Tudo Sobre Cachorros - Xixi no lugar certo parte 1",
@@ -68,10 +59,6 @@
     {
       "titulo": "Alimentos Proibidos",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
       "videos": [
         {
           "titulo": "Ju Almeida Pet - O que seu cachorro NÃO pode comer de JEITO NENHUM",
@@ -92,88 +79,84 @@
         {
           "titulo": "Alimentos proibidos para gatos e cachorros // Papo Pet por Dra. Carol Rocha",
           "url": "https://www.youtube.com/watch?v=y8SS6LKILvg"
+        },
+        {
+          "titulo": "PeritoAnimal - Alimentos tóxicos e proibidos para cachorros  ",
+          "url": "https://www.youtube.com/watch?v=qAvMSmuxmk4"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Socializar",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Como socializar cães com pessoas",
+          "url": "https://www.youtube.com/watch?v=G1FxxxDOFPI"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Fotógrafo de Cães - 5 dicas para socializar seu cachorro - Dicas de Adestramento",
+          "url": "https://www.youtube.com/watch?v=pM9OHUf4Z84"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "COMO SOCIALIZAR O FILHOTE ANTES DAS VACINAS com Bruno Leite e Debby Lagranha",
+          "url": "https://www.youtube.com/watch?v=3YVAu5y95Eg"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Alexandre Rossi ensina como socializar filhotes",
+          "url": "https://www.youtube.com/watch?v=RMKAYlPKQ48"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Vacinas",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Veterinários explicam a importância da vacinação em cães e gatos",
+          "url": "https://www.youtube.com/watch?v=SPB_4QrRBUA"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Petz - De quais vacinas meu cão precisa?",
+          "url": "https://www.youtube.com/watch?v=UonCZgYpDkQ"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "PeritoAnimal - Vacinas para cachorros filhotes e adultos",
+          "url": "https://www.youtube.com/watch?v=kRns8TO6nfM"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Primeira vacina de um filhote | Importância e cuidados [Ju Almeida Pet]",
+          "url": "https://www.youtube.com/watch?v=rlVvsODOUsM"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Drauzio Varella - Cuidados contra a leishmaniose canina",
+          "url": "https://www.youtube.com/watch?v=e50MW_0kXH8"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Ração e Alimentação",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Manual do Mundo - Como é FEITA a RAÇÃO DE CACHORRO",
+          "url": "https://www.youtube.com/watch?v=CyG-ZbTh_JE"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Qual a quantidade de ração ideal para meu cachorro? [Ju Almeida Pet]",
+          "url": "https://www.youtube.com/watch?v=JBBD7xx0tqc"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "PeritoAnimal - 8 FRUTAS PARA CACHORROS, seus benefícios e dose recomendadas",
+          "url": "https://www.youtube.com/watch?v=uplRH14P43I"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "PeritoAnimal - Quantas vezes um CACHORRO deve COMER por dia? - Filhotes e adultos",
+          "url": "https://www.youtube.com/watch?v=TW2WpdiqCYM"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "QUAL A MELHOR RAÇÃO? | Halina Me Ajuda",
+          "url": "https://www.youtube.com/watch?v=t3A141yy5U8"
         }
       ]
     }
