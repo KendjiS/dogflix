@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Adestramento",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -10,71 +10,63 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "PetLove - Como ensinar seu cachorro a sentar, dar a pata e deitar",
+          "url": "https://www.youtube.com/watch?v=FoQp7XqTMPo"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Alexandre Rossi - Como adestrar cães",
+          "url": "https://www.youtube.com/watch?v=8_GFU5aZ9h0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Tudo Sobre Cachorros - Ensinando a sentar em 5 min",
+          "url": "https://www.youtube.com/watch?v=uoSDsDCliqE"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "PetLove - Adestramento de cães - aprendendo a passear",
+          "url": "https://www.youtube.com/watch?v=eWnE9yY3840"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Tudo Sobre Cachorros - Por que adestrar seu cachorro?",
+          "url": "https://www.youtube.com/watch?v=AlPZZ3kRM_o"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Alexandre Rossi - Como ensinar o cão a andar na guia",
+          "url": "https://www.youtube.com/watch?v=IllNXDAwAEQ"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Xixi no Lugar Certo",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Tudo Sobre Cachorros - Xixi no lugar certo parte 1",
+        "url": "https://www.youtube.com/watch?v=FY1_AMAdWG0"
+      },
+      "videos": [
+        {
+          "titulo": "Tudo Sobre Cachorros - Xixi no lugar certo parte 1",
+          "url": "https://www.youtube.com/watch?v=FY1_AMAdWG0"
+        },
+        {
+          "titulo": "Tudo Sobre Cachorros - Xixi no lugar certo parte 2",
+          "url": "https://www.youtube.com/watch?v=CKU20wQRq0g"
+        },
+        {
+          "titulo": "Dicas de comportamento com Alexandre Rossi #1: Xixi no lugar certo",
+          "url": "https://www.youtube.com/watch?v=QRoo-cg4yDM"
+        },
+        {
+          "titulo": "PetLove - Xixi no lugar errado: e agora?",
+          "url": "https://www.youtube.com/watch?v=MOuGzan9egA"
+        }, 
+        {
+          "titulo": "Ju Almeida Pet - 4 Dicas para evitar Xixi e Cocô no lugar errado",
+          "url": "https://www.youtube.com/watch?v=sZY3BHLAKr8"
+        }
+      ]
+    },
+    {
+      "titulo": "Alimentos Proibidos",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
@@ -82,20 +74,24 @@
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Ju Almeida Pet - O que seu cachorro NÃO pode comer de JEITO NENHUM",
+          "url": "https://www.youtube.com/watch?v=eLrMAEe1VdU"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Tudo Sobre Cachorros - Alimentos tóxicos para cães",
+          "url": "https://www.youtube.com/watch?v=BSm33AnMnkY"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Fotógrafo de cães - Alimentos proibidos para cães",
+          "url": "https://www.youtube.com/watch?v=ae-1cN62Sgc"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Alexandre Rossi - Esses alimentos são proibidos para os pets!",
+          "url": "https://www.youtube.com/watch?v=j2WORioe204"
+        },
+        {
+          "titulo": "Alimentos proibidos para gatos e cachorros // Papo Pet por Dra. Carol Rocha",
+          "url": "https://www.youtube.com/watch?v=y8SS6LKILvg"
         }
       ]
     },
